@@ -1,0 +1,11 @@
+mistralai
+langchain
+langchain-community
+langchain-mistralai
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
+streamlit
+langchain-google-genai
